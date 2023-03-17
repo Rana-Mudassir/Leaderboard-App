@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/Rana-Mudassir/Leaderboard-App#readme",
   "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "hint": "^7.1.5",
     "loadash": "^1.0.0"
   },
   "devDependencies": {
