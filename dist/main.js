@@ -136,7 +136,7 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! lodash */ \"./node_modules/lodash/lodash.js\");\n/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _modules_dataInsert__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modules/dataInsert */ \"./src/modules/dataInsert.js\");\n/* harmony import */ var _modules_dataDisplay__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modules/dataDisplay */ \"./src/modules/dataDisplay.js\");\n/* harmony import */ var _modules_dataDisplay__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_modules_dataDisplay__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n/* eslint-disable import/no-unresolved */\r\n// eslint-disable-next-line\r\n\r\n\r\n\r\n\r\n\r\n_modules_dataDisplay__WEBPACK_IMPORTED_MODULE_2___default()(_modules_dataInsert__WEBPACK_IMPORTED_MODULE_1__[\"default\"]);\n\n//# sourceURL=webpack://leaderboard-app/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! lodash */ \"./node_modules/lodash/lodash.js\");\n/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _modules_dataInsert__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modules/dataInsert */ \"./src/modules/dataInsert.js\");\n/* harmony import */ var _modules_dataDisplay__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modules/dataDisplay */ \"./src/modules/dataDisplay.js\");\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n/* eslint-disable import/no-unresolved */\r\n// eslint-disable-next-line\r\n\r\n\r\n\r\n\r\n\r\n(0,_modules_dataDisplay__WEBPACK_IMPORTED_MODULE_2__[\"default\"])(_modules_dataInsert__WEBPACK_IMPORTED_MODULE_1__[\"default\"]);\n\n//# sourceURL=webpack://leaderboard-app/./src/index.js?");
 
 /***/ }),
 
@@ -144,9 +144,10 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var loda
 /*!************************************!*\
   !*** ./src/modules/dataDisplay.js ***!
   \************************************/
-/***/ (() => {
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("// const htmlInput = (arr) => {\r\n//   arr.forEach((data) => {\r\n//     document.querySelector('.table-form').innerHTML += `\r\n//         <tr>\r\n//             <td>${data.name}: ${data.score}</td>\r\n//         </tr>\r\n//       `;\r\n//   });\r\n// };\r\n\r\n// export default htmlInput;\r\n\n\n//# sourceURL=webpack://leaderboard-app/./src/modules/dataDisplay.js?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nconst htmlInput = (arr) => {\r\n  arr.forEach((data) => {\r\n    document.querySelector('.table-form').innerHTML += `\r\n        <tr>\r\n            <td>${data.name}: ${data.score}</td>\r\n        </tr>\r\n      `;\r\n  });\r\n};\r\n\r\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (htmlInput);\r\n\n\n//# sourceURL=webpack://leaderboard-app/./src/modules/dataDisplay.js?");
 
 /***/ }),
 
