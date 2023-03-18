@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 const populateScores = (listData) => {
   const listObj = document.querySelector('.table-form');
 

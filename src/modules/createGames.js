@@ -1,4 +1,4 @@
-/* eslint-disable linebreak-style */
+
 const createGame = async (url, name, score) => {
   fetch(url, {
     method: 'POST',

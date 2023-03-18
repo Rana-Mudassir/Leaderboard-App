@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 const getScores = async (url) => fetch(url, {
   method: 'GET',
   headers: { 'Content-Type': 'application/json' },
