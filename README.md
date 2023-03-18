@@ -4,23 +4,25 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    <!-- - [Tech Stack](#tech-stack) -->
-    - [Key Features](#key-features) 
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  <!-- - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment) -->
-- [👥 Authors](#authors)
-<!-- - [🔭 Future Features](#future-features) -->
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-<!-- - [🙏 Acknowledgements](#acknowledgements) -->
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 \[Leaderboard\] ](#-leaderboard-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+    - [Future feature](#future-feature)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 <!-- - [❓ FAQ](#faq) -->
 - [📝 License](#license)
 
@@ -38,7 +40,9 @@
 - JavaScript
 - ES6 Modules
 
-<!-- ### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="tech-stack"></a>
+- **[Webpack]**
+- **[ES6]**
  
 <!-- Features -->
 
@@ -96,44 +100,34 @@ npm install
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!--
+
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
+
 Example command:
 
 ```sh
-  rails server
+  npm run start
 ```
---->
+-
 
-<!-- ### Run tests
+### Run tests
 
 To run tests, run the following command: -->
 
-<!--
-Example command:
+- N/A
 
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
-<!-- ### Deployment
+### Deployment
 
 You can deploy this project using: -->
 
-<!--
-Example:
+- N/A
 
-```sh
 
-```
- -->
-
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
@@ -168,14 +162,14 @@ If you like this project...
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
-<!--
-## 🙏 Acknowledgments <a name="acknowledgements"></a> -->
 
-<!-- > Give credit to everyone who inspired your codebase.
+## 🙏 Acknowledgments <a name="acknowledgements"></a> 
 
-I would like to thank...
+> Give credit to everyone who inspired your codebase.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+I would like to thank Microverse for giving me this opportunity to learn and grow as a developer.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
@@ -198,7 +192,5 @@ I would like to thank...
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
