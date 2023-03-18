@@ -1,4 +1,4 @@
-import { results, baseUrl } from "./getElements.js";
+import { results, baseUrl } from './getElements.js';
 
 class DisplayScores {
   display = async () => {
@@ -14,7 +14,7 @@ class DisplayScores {
     try {
       const data = await fetch(baseUrl);
       const { result } = await data.json();
-      let str = "";
+      let str = '';
 
       result.map((data) => {
         str += `
@@ -37,7 +37,7 @@ class DisplayScores {
       results.innerHTML = str;
       loading = false;
     } catch (error) {
-      console.error(error.message);
+      // console.error(error.message);
       loading = false;
     }
   };

@@ -39,7 +39,7 @@ class AddScore {
       nameField.value = "";
       scoreField.value = "";
     } catch (error) {
-      console.error(error.message);
+      // console.error(error.message);
     }
   };
 }
