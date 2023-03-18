@@ -2,7 +2,7 @@
 
 # Leader Board
 
-> In this  website you will add scores and also see your scores.
+> In this website you will add scores and also see your scores.
 
 ## Built With
 
@@ -24,18 +24,18 @@
 
 ## Authors
 
-👤 **Mudassir**
+👤 **Aamir Khan**
 
-- GitHub: [@rana-mudassir](https://github.com/rana-mudassir)
-- Twitter: [@rana-mudassir](https://twitter.com/rana-mudassir)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mudassir-nazir/)
+- GitHub: [@aamirkhan2478](https://github.com/aamirkhan2478)
+- Twitter: [@SmartKhan2478](https://twitter.com/SmartKhan2478)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aamir-khan-302a44237/)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/rana-mudassir/leader-board/issues).
+Feel free to check the [issues page](https://github.com/aamirkhan2478/leader-board/issues).
 
 ## Show your support
 
