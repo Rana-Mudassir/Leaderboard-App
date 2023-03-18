@@ -52,8 +52,8 @@
 
 ### Future feature 
 
- No future features
-the project is complete
+ - **[will connect database with it]**
+- **[Creating backent for this app]**
 
 <!-- LIVE DEMO -->
 
