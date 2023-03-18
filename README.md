@@ -2,7 +2,7 @@
 
 # Leader Board
 
-> In this website you will add scores and also see your scores.
+> In this  website you will add scores and also see your scores.
 
 ## Built With
 
