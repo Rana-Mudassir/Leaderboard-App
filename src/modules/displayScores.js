@@ -3,8 +3,8 @@ import { results, baseUrl } from './getElements.js';
 class DisplayScores {
   display = async () => {
     let loading = true;
-    loading &&
-      (results.innerHTML = `
+    loading
+      && (results.innerHTML = `
       <div class="d-flex align-items-center">
       <strong>Loading...</strong>
       <div class="spinner-border text-primary ms-auto" role="status" aria-hidden="true"></div>
