@@ -24,18 +24,18 @@
 
 ## Authors
 
-👤 **Aamir Khan**
+👤 **Mudasir**
 
-- GitHub: [@aamirkhan2478](https://github.com/aamirkhan2478)
-- Twitter: [@SmartKhan2478](https://twitter.com/SmartKhan2478)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aamir-khan-302a44237/)
+- GitHub: [@Mudassirnazir](https://github.com/Mudassirnazir)
+- Twitter: [@mudassir](https://twitter.com/mudassir)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mudassirnazir/)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/aamirkhan2478/leader-board/issues).
+Feel free to check the [issues page](https://github.com/Mudassirnazir/leader-board/issues).
 
 ## Show your support
 
