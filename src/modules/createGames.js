@@ -1,4 +1,3 @@
-
 const createGame = async (url, name, score) => {
   fetch(url, {
     method: 'POST',
