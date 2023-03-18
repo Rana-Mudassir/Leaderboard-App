@@ -24,7 +24,7 @@
 
 ## Authors
 
-👤 **Mudassir**
+👤 **Mudassir **
 
 - GitHub: [@rana-Mudassir](https://github.com/rana-Mudassir)
 - Twitter: [@mudassir](https://twitter.com/mudassir)
